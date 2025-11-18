@@ -15601,7 +15601,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Seeed Studio XIAO Series Library:XIAO-nRF52840-SMD"
 			(at 111.76 40.64 0)
 			(effects
 				(font
@@ -16072,7 +16072,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Seeed Studio XIAO Series Library:XIAO-nRF52840-SMD"
 			(at 247.65 40.64 0)
 			(effects
 				(font
