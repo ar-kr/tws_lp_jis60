@@ -811,18 +811,6 @@
 		(uuid "0962e139-7c4e-4eae-b1b9-3f909ba6706a")
 	)
 	(junction
-		(at 48.26 248.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "099b043c-8bbb-4f5c-b285-984d5a05163b")
-	)
-	(junction
-		(at 48.26 228.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "0bc01f7a-13e0-41a1-b3f4-bce8baa80d0e")
-	)
-	(junction
 		(at 88.9 187.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -871,12 +859,6 @@
 		(uuid "21bdbff5-1f74-4726-bba0-27b3a11f726d")
 	)
 	(junction
-		(at 88.9 228.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "23f4af0a-95f0-4974-a9c6-1b42ef1fdb50")
-	)
-	(junction
 		(at 330.2 208.28)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -893,12 +875,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2689281f-d556-4030-8615-24c233875345")
-	)
-	(junction
-		(at 109.22 248.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "26bb8e45-3f88-40eb-af43-893fce4b7033")
 	)
 	(junction
 		(at 109.22 167.64)
@@ -1063,12 +1039,6 @@
 		(uuid "439de72c-bc0b-49e5-9dc2-faa084b9b563")
 	)
 	(junction
-		(at 88.9 248.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "47b5cfcb-ed54-497e-a6fb-405a1035887b")
-	)
-	(junction
 		(at 381 208.28)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1187,12 +1157,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6958f488-5ef1-48fb-837c-8206e217bc69")
-	)
-	(junction
-		(at 248.92 248.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6a657c67-917c-4647-a549-d3213d48983b")
 	)
 	(junction
 		(at 320.04 200.66)
@@ -1339,12 +1303,6 @@
 		(uuid "9888f3a3-0771-4284-888b-7a595da623c4")
 	)
 	(junction
-		(at 68.58 228.6)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "99d8d31b-de8a-459f-809f-f370e3f8fb75")
-	)
-	(junction
 		(at 68.58 167.64)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1463,12 +1421,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b404fcfe-0e40-4b1b-89d6-8b2b4547e5d5")
-	)
-	(junction
-		(at 149.86 248.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b84cece4-7dcd-4821-bbb9-7a44f69947fc")
 	)
 	(junction
 		(at 119.38 139.7)
@@ -1609,18 +1561,6 @@
 		(uuid "e31aad0c-b84f-4d0b-91cb-11b5c36f3c1f")
 	)
 	(junction
-		(at 129.54 248.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e3db2f68-3617-4b66-8923-2627b3db1646")
-	)
-	(junction
-		(at 68.58 248.92)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "e54f0e13-5f28-49fb-b2f3-ec58938d3f23")
-	)
-	(junction
 		(at 160.02 160.02)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1748,16 +1688,6 @@
 	)
 	(wire
 		(pts
-			(xy 248.92 248.92) (xy 269.24 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "036ea3f9-3cc1-4f50-8161-c950904b19df")
-	)
-	(wire
-		(pts
 			(xy 119.38 104.14) (xy 119.38 119.38)
 		)
 		(stroke
@@ -1805,16 +1735,6 @@
 			(type default)
 		)
 		(uuid "0c0d5c04-2939-4e6c-aa2e-092afc0066e5")
-	)
-	(wire
-		(pts
-			(xy 27.94 248.92) (xy 48.26 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0ca02cf1-299e-4170-a2b4-a18e23076e9c")
 	)
 	(wire
 		(pts
@@ -1925,16 +1845,6 @@
 			(type default)
 		)
 		(uuid "194eba87-6a41-439f-867c-ef4e01da19aa")
-	)
-	(wire
-		(pts
-			(xy 149.86 241.3) (xy 160.02 241.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "19a32d0c-145a-4e54-b764-c0eb88e347f4")
 	)
 	(wire
 		(pts
@@ -2288,16 +2198,6 @@
 	)
 	(wire
 		(pts
-			(xy 48.26 228.6) (xy 68.58 228.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "439ebf81-c513-4aed-ba1d-d1611e46b64d")
-	)
-	(wire
-		(pts
 			(xy 109.22 147.32) (xy 129.54 147.32)
 		)
 		(stroke
@@ -2348,16 +2248,6 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 248.92) (xy 109.22 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "49caa851-ca42-42cc-931c-d840536f3d6f")
-	)
-	(wire
-		(pts
 			(xy 320.04 119.38) (xy 320.04 139.7)
 		)
 		(stroke
@@ -2405,16 +2295,6 @@
 			(type default)
 		)
 		(uuid "4cd8d48b-c341-4441-acda-13c369399b7a")
-	)
-	(wire
-		(pts
-			(xy 68.58 248.92) (xy 88.9 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "513c3404-a094-47b6-a5fb-d6928e90713a")
 	)
 	(wire
 		(pts
@@ -2858,16 +2738,6 @@
 	)
 	(wire
 		(pts
-			(xy 109.22 248.92) (xy 129.54 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b3b1843-21d1-47e2-af85-2b282d571da5")
-	)
-	(wire
-		(pts
 			(xy 48.26 167.64) (xy 68.58 167.64)
 		)
 		(stroke
@@ -3028,16 +2898,6 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 248.92) (xy 149.86 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "943825f9-840d-4e77-a3ae-743d54e951c4")
-	)
-	(wire
-		(pts
 			(xy 373.38 248.92) (xy 350.52 248.92)
 		)
 		(stroke
@@ -3045,16 +2905,6 @@
 			(type default)
 		)
 		(uuid "953099a5-fe1f-4b04-8d86-c2dfff924406")
-	)
-	(wire
-		(pts
-			(xy 68.58 228.6) (xy 88.9 228.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "991ca7e1-552b-4143-9e49-4fe1dfec1830")
 	)
 	(wire
 		(pts
@@ -3105,16 +2955,6 @@
 			(type default)
 		)
 		(uuid "9f74c6b4-03b1-453c-98bc-cbc5c358a5e4")
-	)
-	(wire
-		(pts
-			(xy 48.26 248.92) (xy 68.58 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a02bb92b-5613-40e7-8810-280a5e567552")
 	)
 	(wire
 		(pts
@@ -3418,16 +3258,6 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 228.6) (xy 48.26 228.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bccdbb5a-cbee-4fbb-9dfc-df4300b10fb1")
-	)
-	(wire
-		(pts
 			(xy 68.58 208.28) (xy 88.9 208.28)
 		)
 		(stroke
@@ -3495,16 +3325,6 @@
 			(type default)
 		)
 		(uuid "c0aa6e97-2c6d-4ad4-bfb4-53312e8ae7a4")
-	)
-	(wire
-		(pts
-			(xy 228.6 248.92) (xy 248.92 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c2e6dafe-93ee-44b5-aff1-68b2ac3d6310")
 	)
 	(wire
 		(pts
@@ -3728,16 +3548,6 @@
 	)
 	(wire
 		(pts
-			(xy 129.54 248.92) (xy 149.86 248.92)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e04f6708-6e0c-4ec7-a9fb-2b7feaf456f8")
-	)
-	(wire
-		(pts
 			(xy 139.7 139.7) (xy 139.7 160.02)
 		)
 		(stroke
@@ -3885,16 +3695,6 @@
 			(type default)
 		)
 		(uuid "f553da35-7e02-4aa3-abea-2eaf059109c4")
-	)
-	(wire
-		(pts
-			(xy 88.9 228.6) (xy 109.22 228.6)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f71f0070-83fc-409d-baab-46f7aa6b792d")
 	)
 	(wire
 		(pts
@@ -5993,77 +5793,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 233.68 241.3 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "047417c9-bca3-4701-9f68-e5c43865784c")
-		(property "Reference" "RC0-13"
-			(at 233.68 234.95 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 233.68 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
-			(at 233.68 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 233.68 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 233.68 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "8b40683f-7e29-477e-a97c-dbe74b702c7a")
-		)
-		(pin "2"
-			(uuid "7340ecfd-4127-4043-ae15-527698f6b702")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "RC0-13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
 		(at 274.32 180.34 0)
 		(mirror y)
 		(unit 1)
@@ -6406,186 +6135,6 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 228.6 245.11 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0dc6dda4-91a3-4d50-a72f-6b03b6dd546a")
-		(property "Reference" "D18"
-			(at 226.06 244.475 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 226.06 247.015 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 228.6 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 228.6 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 228.6 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 228.6 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 228.6 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3169c54a-f15f-4bfe-af98-d2bdaac5fa76")
-		)
-		(pin "2"
-			(uuid "b85460cb-8e16-491c-b10d-c3cf78d45bf7")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "D18")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 176.53 248.92 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "0ef17723-f7f8-4fdb-8913-5a4ceefbc065")
-		(property "Reference" "DI6"
-			(at 176.53 245.11 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 178.435 251.46 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 176.53 248.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 176.53 248.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 176.53 248.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 176.53 248.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 176.53 248.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "df5a6b10-ba48-4f34-96ce-3832d480a7ee")
-		)
-		(pin "2"
-			(uuid "59f34a55-6ac4-496d-8c40-1b8f1eafbcb5")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "DI6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
 		(at 330.2 143.51 270)
 		(mirror x)
 		(unit 1)
@@ -6741,97 +6290,6 @@
 			(project "Assemble"
 				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
 					(reference "RC4-0")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 27.94 224.79 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0ff76361-9578-4f9f-a20c-f042e24a7755")
-		(property "Reference" "D5"
-			(at 25.4 224.155 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 25.4 226.695 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 27.94 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 27.94 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 27.94 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 27.94 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 27.94 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "215dbe63-78d5-4c5a-ae6e-aa6f73ab7e06")
-		)
-		(pin "2"
-			(uuid "cd1f2b01-8443-4a0a-8ce8-ea0d6bc111da")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "D5")
 					(unit 1)
 				)
 			)
@@ -8173,97 +7631,6 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 149.86 245.11 90)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2518146c-59f4-45b7-a4fa-f618686ab064")
-		(property "Reference" "DS6"
-			(at 152.4 245.745 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 152.4 243.205 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 149.86 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 149.86 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 149.86 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 149.86 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 149.86 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "cee2f461-8f62-48d8-ac7b-1698deb984c1")
-		)
-		(pin "2"
-			(uuid "460b9088-619c-4166-a615-45e17ecf1f0d")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "DS6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
 		(at 149.86 184.15 270)
 		(mirror x)
 		(unit 1)
@@ -9354,97 +8721,6 @@
 			(project "Assemble"
 				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
 					(reference "D54")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 68.58 245.11 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "310fec10-f10c-41d7-9446-87c12744e146")
-		(property "Reference" "D26"
-			(at 66.04 244.475 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 66.04 247.015 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 68.58 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 68.58 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 68.58 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 68.58 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 68.58 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e1d524d3-5d24-4c87-b480-74c57a74b567")
-		)
-		(pin "2"
-			(uuid "c0e9aa05-6318-4fdc-abee-cb43875c8e46")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "D26")
 					(unit 1)
 				)
 			)
@@ -10781,97 +10057,6 @@
 			(project "Assemble"
 				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
 					(reference "D22")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 109.22 224.79 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "44de9323-bd5d-49cd-bf0a-70392801309d")
-		(property "Reference" "D45"
-			(at 106.68 224.155 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 106.68 226.695 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 109.22 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 109.22 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 109.22 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 109.22 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 109.22 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fb2b185b-5d98-46b8-8516-9e5c980291cf")
-		)
-		(pin "2"
-			(uuid "f730da3b-5ef9-4abc-8c8d-0794fe3feb87")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "D45")
 					(unit 1)
 				)
 			)
@@ -12281,259 +11466,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
-		(at 88.9 224.79 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "59fdee43-9b65-471d-9ea8-5dc40dc65f6e")
-		(property "Reference" "D35"
-			(at 86.36 224.155 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 86.36 226.695 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 88.9 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 88.9 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 88.9 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 88.9 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 88.9 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "5834d436-0e26-481b-a20d-40fa6346502e")
-		)
-		(pin "2"
-			(uuid "59af1ddc-701f-49c0-b6cd-778072695c5c")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "D35")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 129.54 245.11 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5aeb247f-6f79-4df2-b767-9ca89069182c")
-		(property "Reference" "D56"
-			(at 127 244.475 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 127 247.015 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 129.54 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 129.54 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 129.54 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 129.54 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 129.54 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d46c0cdd-d9c1-44c1-ba6c-034fc547ff01")
-		)
-		(pin "2"
-			(uuid "53f3e198-3ef2-40c4-a8f7-298435eddd0b")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "D56")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 114.3 241.3 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5c60f960-fb0a-46f6-9aff-5d8144586231")
-		(property "Reference" "RC4-6"
-			(at 114.3 234.95 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 114.3 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
-			(at 114.3 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 114.3 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 114.3 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "990f1ee1-d6da-4ae8-809a-1911d8099a4c")
-		)
-		(pin "2"
-			(uuid "a8276c00-b61f-4db4-8f4f-e51e512de654")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "RC4-6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 314.96 160.02 0)
 		(mirror y)
@@ -12599,97 +11531,6 @@
 			(project "Assemble"
 				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
 					(reference "RC4-9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 48.26 224.79 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5f21a75c-b9ee-47bf-adcf-39a03e42660f")
-		(property "Reference" "D15"
-			(at 45.72 224.155 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 45.72 226.695 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 48.26 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 48.26 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 48.26 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 48.26 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 48.26 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "15a944cb-2e3c-4cbc-a2d8-78aee4fee2b1")
-		)
-		(pin "2"
-			(uuid "7a8a84c2-38d2-473b-955d-81dd816a398e")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -12852,239 +11693,6 @@
 			(project "Assemble"
 				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
 					(reference "D4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 73.66 241.3 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "61b2e3fc-583b-407b-beff-dd8441f2f403")
-		(property "Reference" "RC2-6"
-			(at 73.66 234.95 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 73.66 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
-			(at 73.66 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 73.66 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 73.66 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "752f308d-4723-4468-9745-81de18307ba3")
-		)
-		(pin "2"
-			(uuid "3267c09c-2818-42d7-96a9-6aaa2d6c4a92")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "RC2-6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 88.9 245.11 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6368f5d6-df20-4a23-a72c-e29e990ea131")
-		(property "Reference" "D36"
-			(at 86.36 244.475 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 86.36 247.015 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 88.9 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 88.9 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 88.9 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 88.9 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 88.9 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2cd72461-15a2-466d-828d-9560639fb78b")
-		)
-		(pin "2"
-			(uuid "e26d27e6-f81a-4557-bc98-f3f953d25d26")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "D36")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 93.98 241.3 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "67aba0e0-2c92-4816-99a5-9091230a7899")
-		(property "Reference" "RC3-6"
-			(at 93.98 234.95 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 93.98 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
-			(at 93.98 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 93.98 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 93.98 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9c252319-dc79-4365-afaa-77dcde3e6c4e")
-		)
-		(pin "2"
-			(uuid "a5f35312-d094-4f22-9eb9-0edc1f8fb9c4")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "RC3-6")
 					(unit 1)
 				)
 			)
@@ -14242,97 +12850,6 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 48.26 245.11 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7876e2e4-9d5a-416f-b97a-e958a989e5b8")
-		(property "Reference" "D16"
-			(at 45.72 244.475 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 45.72 247.015 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 48.26 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 48.26 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 48.26 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 48.26 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 48.26 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d8bd5710-8f18-4748-9b3c-a975f78342a1")
-		)
-		(pin "2"
-			(uuid "da0aa924-203b-4985-9bff-4185f3555d43")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "D16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
 		(at 68.58 123.19 270)
 		(mirror x)
 		(unit 1)
@@ -14741,77 +13258,6 @@
 			(project "Assemble"
 				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
 					(reference "D71")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 134.62 241.3 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "83fb734e-dbcd-4939-9bb9-d97efd05ec97")
-		(property "Reference" "RC5-6"
-			(at 134.62 234.95 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 134.62 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
-			(at 134.62 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 134.62 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 134.62 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7315a9fc-fd63-46c2-90db-bee656dc7568")
-		)
-		(pin "2"
-			(uuid "f2997912-9551-49e9-aab8-387875819f56")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "RC5-6")
 					(unit 1)
 				)
 			)
@@ -15324,77 +13770,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 53.34 220.98 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8c168cda-0a39-478d-9d71-1073400c7ed7")
-		(property "Reference" "RC1-5"
-			(at 53.34 214.63 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 53.34 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
-			(at 53.34 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 53.34 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0d2851af-db15-44cf-8e07-da339bdc18b2")
-		)
-		(pin "2"
-			(uuid "94b381a2-7c19-4916-9f9a-ee00221d04d3")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "RC1-5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Diode:1N4148")
 		(at 176.53 208.28 0)
 		(mirror y)
@@ -15886,77 +14261,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 53.34 241.3 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9578a4b6-1a56-40b7-be8d-56404ef59fdf")
-		(property "Reference" "RC1-6"
-			(at 53.34 234.95 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 53.34 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
-			(at 53.34 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 53.34 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 53.34 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0b899b44-3ae3-40be-a452-1f16eaa5f4af")
-		)
-		(pin "2"
-			(uuid "11e73d1b-80a3-4e76-b7dd-cbbb811ab0ce")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "RC1-6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Diode:1N4148")
 		(at 176.53 187.96 0)
 		(mirror y)
@@ -16260,97 +14564,6 @@
 			(project "Assemble"
 				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
 					(reference "D44")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 27.94 245.11 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "9af5b930-d274-4b05-b0bf-e2c27b7e71dd")
-		(property "Reference" "D6"
-			(at 25.4 244.475 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 25.4 247.015 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 27.94 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 27.94 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 27.94 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 27.94 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 27.94 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "7bdad3d4-58ec-438c-beb8-3eea36a29d95")
-		)
-		(pin "2"
-			(uuid "5ff4e8af-dd18-4010-b183-21b8178cd684")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "D6")
 					(unit 1)
 				)
 			)
@@ -17165,77 +15378,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 114.3 220.98 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ac10b530-144b-4dfc-ab37-ad7a8ced8612")
-		(property "Reference" "RC4-5"
-			(at 114.3 214.63 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 114.3 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
-			(at 114.3 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 114.3 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 114.3 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d6c95156-54b9-4f54-a278-f808b4871687")
-		)
-		(pin "2"
-			(uuid "c3dc8d92-1759-4195-a3c9-81260bc6d8b1")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "RC4-5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Diode:1N4148")
 		(at 68.58 163.83 90)
 		(mirror x)
@@ -17665,77 +15807,6 @@
 			(project "Assemble"
 				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
 					(reference "D57")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 274.32 241.3 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "afec8abc-0683-46bb-a986-269701c47ac1")
-		(property "Reference" "RC2-13"
-			(at 274.32 234.95 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 274.32 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
-			(at 274.32 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 274.32 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 274.32 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1ea20fec-65d8-4e0b-b0ae-77e7e971a7c9")
-		)
-		(pin "2"
-			(uuid "decc1ce0-84ef-4b5c-884e-991e315fd9b1")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "RC2-13")
 					(unit 1)
 				)
 			)
@@ -18692,77 +16763,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 33.02 220.98 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ba927934-b2e1-4953-b21b-54ef02be8935")
-		(property "Reference" "RC0-5"
-			(at 33.02 214.63 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 33.02 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
-			(at 33.02 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 33.02 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 33.02 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1cadba0a-3bb3-40cd-acea-644da4b3e05f")
-		)
-		(pin "2"
-			(uuid "1368ebac-096c-415f-acaf-9afb071e729f")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "RC0-5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Diode:1N4148")
 		(at 109.22 204.47 90)
 		(mirror x)
@@ -19138,97 +17138,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
-		(at 109.22 245.11 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c11b6807-83e7-46af-9d7e-9d56aab4109c")
-		(property "Reference" "D46"
-			(at 106.68 244.475 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 106.68 247.015 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 109.22 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 109.22 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 109.22 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 109.22 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 109.22 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6b653e88-2a4b-46ad-a4e1-fb3b7ccb1c46")
-		)
-		(pin "2"
-			(uuid "6764bae9-067c-4178-897e-2c25048ade8b")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "D46")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 33.02 180.34 0)
 		(mirror y)
@@ -19533,77 +17442,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 73.66 220.98 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c72dd108-be98-47d5-b809-561778aa3212")
-		(property "Reference" "RC2-5"
-			(at 73.66 214.63 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 73.66 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
-			(at 73.66 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 73.66 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 73.66 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "99d2f0fd-ce69-4d4e-a4ab-163c1691ef24")
-		)
-		(pin "2"
-			(uuid "03d1f1e0-40f1-4e90-8bd6-786e9c8d9ffa")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "RC2-5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Diode:1N4148")
 		(at 350.52 163.83 270)
 		(mirror x)
@@ -19780,77 +17618,6 @@
 			(project "Assemble"
 				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
 					(reference "D50")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 254 241.3 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ca197d56-faee-4377-a0d1-69fb9ad95053")
-		(property "Reference" "RC1-13"
-			(at 254 234.95 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 254 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
-			(at 254 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 254 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 254 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ee08baf8-1038-43e4-b74a-26c81d713a70")
-		)
-		(pin "2"
-			(uuid "8481a3d5-ea72-46ef-94df-aa9dbf950ed2")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "RC1-13")
 					(unit 1)
 				)
 			)
@@ -20576,97 +18343,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148")
-		(at 248.92 245.11 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d57ce4b2-8b4b-4950-96e1-d4e899ece810")
-		(property "Reference" "D33"
-			(at 246.38 244.475 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 246.38 247.015 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 248.92 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 248.92 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 248.92 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 248.92 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 248.92 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c7973f06-f4a0-4c63-9ce4-dafb211942b6")
-		)
-		(pin "2"
-			(uuid "421e3de2-f2e1-4c85-a9c3-343c301f2a10")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "D33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 254 119.38 0)
 		(mirror y)
@@ -20803,97 +18479,6 @@
 			(project "Assemble"
 				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
 					(reference "RC2-1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 269.24 245.11 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "da04dbfd-551f-4ed6-9c7b-b206428b4571")
-		(property "Reference" "D48"
-			(at 266.7 244.475 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 266.7 247.015 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 269.24 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 269.24 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 269.24 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 269.24 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 269.24 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ae30c30a-63a6-42c0-b422-38b8a6f7340e")
-		)
-		(pin "2"
-			(uuid "62292ef0-d574-447f-a7c2-39ff2069d7f1")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "D48")
 					(unit 1)
 				)
 			)
@@ -21387,77 +18972,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 93.98 220.98 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e490f25a-1360-4f95-aa79-5f1d93892bb3")
-		(property "Reference" "RC3-5"
-			(at 93.98 214.63 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 93.98 217.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
-			(at 93.98 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 93.98 215.9 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 93.98 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "056973a8-92e3-49be-9b21-fe961241d12f")
-		)
-		(pin "2"
-			(uuid "01c4c06b-d45d-4ffb-ad72-57ca7686fd55")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "RC3-5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
 		(at 314.96 119.38 0)
 		(mirror y)
 		(unit 1)
@@ -21937,168 +19451,6 @@
 			(project "Assemble"
 				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
 					(reference "D13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148")
-		(at 68.58 224.79 270)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fcc35b13-8da5-4271-981a-5470b3add3e5")
-		(property "Reference" "D25"
-			(at 66.04 224.155 90)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148"
-			(at 66.04 226.695 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 68.58 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 68.58 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 68.58 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 68.58 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 68.58 224.79 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0f0d662a-16b3-4c76-b4ee-49de18b57b47")
-		)
-		(pin "2"
-			(uuid "ba9a1f4c-173e-4b32-907f-fe9b31df718b")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "D25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push")
-		(at 33.02 241.3 0)
-		(mirror y)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fd13d6af-afdf-4367-a43b-1889348eabd8")
-		(property "Reference" "RC0-6"
-			(at 33.02 234.95 0)
-			(do_not_autoplace yes)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push"
-			(at 33.02 237.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1U"
-			(at 33.02 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 33.02 236.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 33.02 241.3 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "854af50a-a007-4ba3-a405-76f0f99e9817")
-		)
-		(pin "2"
-			(uuid "bc5fa1b1-0be1-4e5e-8d2a-64eb74cc8142")
-		)
-		(instances
-			(project "Assemble"
-				(path "/2be18602-0dfa-4aa1-b48a-96295d354dea"
-					(reference "RC0-6")
 					(unit 1)
 				)
 			)
