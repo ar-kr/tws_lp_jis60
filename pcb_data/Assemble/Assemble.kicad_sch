@@ -15313,7 +15313,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Kailh_PG1353_Hotswap:Kailh-PG1353-Hotswap-1.5U"
+		(property "Footprint" "0temp-library:Kailh-PG1353-Hotswap-ISOEnter"
 			(at 355.6 154.94 0)
 			(effects
 				(font

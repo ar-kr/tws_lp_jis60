@@ -1,4 +1,11 @@
-27508206908231473
+27531100074744319
+0temp-library
+Kailh-PG1353-Hotswap-ISOEnter
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -109489,6 +109496,90 @@ Hotswap footprint for Kailh Choc v2 style switches
 ymknlib_Switch_ChocV2
 SW_choc_v2_1u
 Hotswap footprint for Kailh Choc v2 style switches
+
+0
+6
+2
+ymknlib_Switch_MX_GLP3
+PlateHole_PlateStab_GLP3_2.25u
+
+
+0
+0
+0
+ymknlib_Switch_MX_GLP3
+PlateHole_PlateStab_GLP3_2.75u
+
+
+0
+0
+0
+ymknlib_Switch_MX_GLP3
+PlateHole_PlateStab_GLP3_2u
+
+
+0
+0
+0
+ymknlib_Switch_MX_GLP3
+PlateHole_SW_MX_GLP3_1u
+
+
+0
+0
+0
+ymknlib_Switch_MX_GLP3
+PlateStab_GLP3_2.25u
+
+
+0
+0
+0
+ymknlib_Switch_MX_GLP3
+PlateStab_GLP3_2.75u
+
+
+0
+0
+0
+ymknlib_Switch_MX_GLP3
+PlateStab_GLP3_2u
+
+
+0
+0
+0
+ymknlib_Switch_MX_GLP3
+PlateStab_GLP3_ISOEnter
+Footprint for Cherry Clip/Screw in type stabilizers, ISO Enter
+
+0
+0
+0
+ymknlib_Switch_MX_GLP3
+SW_MX_GLP3_1.5u
+Footprint for Cherry MX and Gateron Low Profile 3.0 style switches with Kailh hotswap socket
+
+0
+6
+2
+ymknlib_Switch_MX_GLP3
+SW_MX_GLP3_1.25u
+Footprint for Cherry MX and Gateron Low Profile 3.0 style switches with Kailh hotswap socket
+
+0
+6
+2
+ymknlib_Switch_MX_GLP3
+SW_MX_GLP3_1.75u
+Footprint for Cherry MX and Gateron Low Profile 3.0 style switches with Kailh hotswap socket
+
+0
+6
+2
+ymknlib_Switch_MX_GLP3
+SW_MX_GLP3_1u
+Footprint for Cherry MX and Gateron Low Profile 3.0 style switches with Kailh hotswap socket
 
 0
 6
