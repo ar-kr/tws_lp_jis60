@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Kailh_PG1353_Hotswap")(type "KiCad")(uri "${KIPRJMOD}/../kicad_library/external/MX_V2/Kailh_PG1353_Hotswap.pretty")(options "")(descr ""))
+)
